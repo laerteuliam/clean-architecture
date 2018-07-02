@@ -1,0 +1,14 @@
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\bin\Debug\netcoreapp2.1\Uliam.Api.deps.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\bin\Debug\netcoreapp2.1\Uliam.Api.runtimeconfig.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\bin\Debug\netcoreapp2.1\Uliam.Api.runtimeconfig.dev.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\bin\Debug\netcoreapp2.1\Uliam.Api.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\bin\Debug\netcoreapp2.1\Uliam.Api.pdb
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.csprojAssemblyReference.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.csproj.CoreCompileInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.RazorAssemblyInfo.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.RazorAssemblyInfo.cs
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.AssemblyInfoInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.AssemblyInfo.cs
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.RazorTargetAssemblyInfo.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Api\obj\Debug\netcoreapp2.1\Uliam.Api.pdb

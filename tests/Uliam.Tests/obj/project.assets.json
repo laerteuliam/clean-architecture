@@ -5714,11 +5714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\tests\\Uliam.Tests\\Uliam.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\tests\\Uliam.Tests\\Uliam.Tests.csproj",
       "projectName": "Uliam.Tests",
-      "projectPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\tests\\Uliam.Tests\\Uliam.Tests.csproj",
+      "projectPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\tests\\Uliam.Tests\\Uliam.Tests.csproj",
       "packagesPath": "C:\\Users\\laert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\tests\\Uliam.Tests\\obj\\",
+      "outputPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\tests\\Uliam.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

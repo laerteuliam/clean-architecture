@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Api\\Uliam.Api.csproj",
+      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Api\\Uliam.Api.csproj",
       "projectName": "Uliam.Api",
-      "projectPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Api\\Uliam.Api.csproj",
+      "projectPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Api\\Uliam.Api.csproj",
       "packagesPath": "C:\\Users\\laert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Api\\obj\\",
+      "outputPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

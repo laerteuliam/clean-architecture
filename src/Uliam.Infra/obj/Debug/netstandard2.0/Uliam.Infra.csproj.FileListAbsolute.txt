@@ -1,0 +1,9 @@
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\bin\Debug\netstandard2.0\Uliam.Infra.deps.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\bin\Debug\netstandard2.0\Uliam.Infra.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\bin\Debug\netstandard2.0\Uliam.Infra.pdb
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.csprojAssemblyReference.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.csproj.CoreCompileInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.AssemblyInfoInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.AssemblyInfo.cs
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\src\Uliam.Infra\obj\Debug\netstandard2.0\Uliam.Infra.pdb

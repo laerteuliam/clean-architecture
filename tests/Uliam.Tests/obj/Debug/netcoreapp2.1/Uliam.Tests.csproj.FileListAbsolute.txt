@@ -1,0 +1,14 @@
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\Uliam.Tests.deps.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\Uliam.Tests.runtimeconfig.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\Uliam.Tests.runtimeconfig.dev.json
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\Uliam.Tests.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\bin\Debug\netcoreapp2.1\Uliam.Tests.pdb
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.csprojAssemblyReference.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.csproj.CoreCompileInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.AssemblyInfoInputs.cache
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.AssemblyInfo.cs
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.dll
+C:\Users\laert\Source\Repos\LaerteUliam\Clean-Architecture\tests\Uliam.Tests\obj\Debug\netcoreapp2.1\Uliam.Tests.pdb

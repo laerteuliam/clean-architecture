@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Core\\Uliam.Core.csproj",
+      "projectUniqueName": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Core\\Uliam.Core.csproj",
       "projectName": "Uliam.Core",
-      "projectPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Core\\Uliam.Core.csproj",
+      "projectPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Core\\Uliam.Core.csproj",
       "packagesPath": "C:\\Users\\laert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laert\\Source\\Repos\\Clean-Architecture-Uliam\\src\\Uliam.Core\\obj\\",
+      "outputPath": "C:\\Users\\laert\\Source\\Repos\\LaerteUliam\\Clean-Architecture\\src\\Uliam.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
